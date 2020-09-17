@@ -1,4 +1,4 @@
-import Recipient from "../Recipient";
+import Recipient from "../recipient";
 
 describe("acceptInjection", () => {
   beforeEach(() => {
